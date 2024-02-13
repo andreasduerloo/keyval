@@ -1,0 +1,9 @@
+{
+    "Portnumber": 4555,
+    "IdleTimeout": "2m",
+    "ReadHeaderTimeout": "1m",
+    "Tls": false,
+    "Tlspath": "",
+    "Persist": false,
+    "Persistpath": ""
+}
